@@ -1,3 +1,0 @@
-PLACEHOLDER
-
-Arquivo é substituído no workflow.
